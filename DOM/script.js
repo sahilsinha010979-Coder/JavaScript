@@ -17,3 +17,6 @@ console.log(document.getElementsByTagName("div"))
 console.dir(document.querySelector("div"))// returns the first element matching with the tag or id or class
 console.dir(document.querySelectorAll("div"))// returns all the elements matching with the tag or id or class
 
+//Attributes
+let div = document.querySelector("div");
+console.log(div)
